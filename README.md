@@ -11,7 +11,7 @@ agregar /etc/hosts
 
 10.80.157.10 pru.bsg.gob.ec  -- pruebas
 
-## coneccion DINARDAP
+Coneccion DINARDAP
 
 10.80.173.2 interoperabilidad.dinardap.gob.ec -- anillo
 
